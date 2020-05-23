@@ -83,6 +83,7 @@ def adding_matz
       },
       :dennis_ritchie => {
         :known_for => "Unix",
+        :known_for => "Unix",
         :languages => ["C"]
       }
     }
@@ -130,7 +131,6 @@ def adding_to_dennis
         :languages => ["Smalltalk", "LISP"]
       },
       :dennis_ritchie => {
-        :known_for => "Unix",
         :languages => ["C"]
       }
     }
